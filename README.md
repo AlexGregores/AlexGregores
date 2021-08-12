@@ -1,8 +1,8 @@
 Olá ! Eu sou o Alexandre
 
 <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexGregores&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/AlexGregores">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexGregores&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGregores&layout=compact&langs_count=16&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGregores&layout=compact&langs_count=7&theme=dark"/>
 </div>
