@@ -1,6 +1,8 @@
 
 Estudante de Analise e Desenvolvimento de Sistemas.
 
+I love to code because it is fun!
+
 <div>
   <a href="https://github.com/AlexGregores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexGregores&theme=dark&include_all_commits=false&count_private=true"/>
