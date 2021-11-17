@@ -1,4 +1,5 @@
-Olá ! Eu sou o Alexandre
+Alexandre 
+Estudante de Analise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github.com/AlexGregores">
